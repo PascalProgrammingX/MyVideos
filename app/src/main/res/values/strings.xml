@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Videos</string>
+    <string name="video_gallery" translatable="true">Video Gallery</string>
+</resources>
